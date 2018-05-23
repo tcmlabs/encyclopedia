@@ -12,6 +12,8 @@ Useful programming/IT resources we often refer to at TCM Labs.
 
 * [You're Missing the Point of Promises](https://blog.domenic.me/youre-missing-the-point-of-promises/) ([@domenic](https://twitter.com/domenic)). Promises/A+ explained.
 * [A General Theory of Reactivity](https://github.com/kriskowal/gtor) ([@kriskowal](https://twitter.com/kriskowal)). Sync/async, single/multiple.
+* [Promises are not neutral enough](https://staltz.com/promises-are-not-neutral-enough.html) (@[andrestaltz](https://twitter.com/andrestaltz?lang=fr)). "then() is a mix of map() and flatMap()".
+
 
 ## Frontend development
 
