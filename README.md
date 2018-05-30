@@ -24,3 +24,8 @@ Useful programming/IT resources we often refer to at TCM Labs.
 ## Functional programming
 
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) ([@_egonschiele](https://twitter.com/_egonschiele)). Once you understand, you cannot explain.
+
+## Distributed systems
+
+* [You Cannot Have Exactly-Once Delivery
+](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) ([@tyler_treat](https://twitter.com/tyler_treat)). "Within the context of a distributed system, you cannot have exactly-once message delivery."
