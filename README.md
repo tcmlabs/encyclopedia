@@ -29,3 +29,7 @@ Useful programming/IT resources we often refer to at TCM Labs.
 
 * [You Cannot Have Exactly-Once Delivery
 ](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/) ([@tyler_treat](https://twitter.com/tyler_treat)). "Within the context of a distributed system, you cannot have exactly-once message delivery."
+
+## Docker
+
+* [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/) ([@phusion_nl](https://twitter.com/phusion_nl)). A good explanation of the Docker and PID 1 problem, now fixed with the `docker run --init` flag.
