@@ -23,7 +23,14 @@ Useful programming/IT resources we often refer to at TCM Labs.
 
 ## Functional programming
 
+### Monads
+
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) ([@_egonschiele](https://twitter.com/_egonschiele)). Once you understand, you cannot explain.
+* [Why do monads matter?](https://cdsmith.wordpress.com/2012/04/18/why-do-monads-matter/) ([@cdsmithus](https://twitter.com/cdsmithus)). "This may be one of the gentlest introductions to the idea of categories and monads that you will find."
+
+### Typing
+
+* [Typed functional programming and software correctness](https://dimjasevic.net/marko/2018/10/23/typed-functional-programming-and-software-correctness/) ([Marko Dimjašević](https://dimjasevic.net/marko/contact/)) "Much stronger guarantees about software correctness come from a significantly harder goal we should nevertheless strive to: to be able to prove the program correct."
 
 ## Distributed systems
 
