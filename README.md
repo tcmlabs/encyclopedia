@@ -40,3 +40,7 @@ Useful programming/IT resources we often refer to at TCM Labs.
 ## Docker
 
 * [Docker and the PID 1 zombie reaping problem](https://blog.phusion.nl/2015/01/20/docker-and-the-pid-1-zombie-reaping-problem/) ([@phusion_nl](https://twitter.com/phusion_nl)). A good explanation of the Docker and PID 1 problem, now fixed with the `docker run --init` flag.
+
+## Kubernetes
+
+* [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/) ([@soofaloofa](https://twitter.com/soofaloofa)). "Understanding the Kubernetes networking model will allow you to correctly run, monitor and troubleshoot your applications running on Kubernetes."
